@@ -3,7 +3,7 @@
 *.egg
 /build/
 /dist/
-/doc/build/output/
+#/doc/build/output/
 /dogpile_data/
 *.orig
 *,cover
